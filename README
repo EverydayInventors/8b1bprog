@@ -1,0 +1,10 @@
+8b1bprog V0.01
+8-Bit One-Bus Cartridge Programmer
+Copyright 2010,2011,2012 The Free Software Foundation
+Copyright 2011,2012 Everyday Inventors, LLC.
+
+8-Bit One-Bus Cartridge Programmer is a hardware and firmware solution for
+interfacing Flash memory cartridges to VT02 and above based computers and
+game systems which have a dual-row 30-pin cartridge connector, for the
+purpose of running home-brew and free software on VT02 and above based
+systems.
