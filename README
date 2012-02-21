@@ -8,3 +8,17 @@ interfacing Flash memory cartridges to VT02 and above based computers and
 game systems which have a dual-row 30-pin cartridge connector, for the
 purpose of running home-brew and free software on VT02 and above based
 systems.
+
+The schematics are copyright Everyday Inventors, LLC. and licensed for use
+under the Creative Commons Attribution-ShareAlike license as found at:
+
+http://creativecommons.org/licenses/by-sa/3.0/
+
+The firmware is copyright The Free Software Foundation, and Everyday
+Inventors, LLC. and licensed for use under the GNU General Public License
+version 3.0 (GPL V3.0) as found at:
+
+http://www.gnu.org/licenses/gpl-3.0.html
+
+A plain-text copy of the GPL V3.0 is also provided in the firmware directory
+of this project.
